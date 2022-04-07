@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s2way/jasper-stream.git"
+    "url": "https://github.com/HereITBrasil/jasper-stream.git"
   },
   "keywords": [
     "jasper",
     "stream",
     "connector"
   ],
-  "author": "Newborns/S2Way",
+  "author": "HereITBrasil",
   "bugs": {
-    "url": "https://github.com/s2way/jasper-stream/issues"
+    "url": "https://github.com/HereITBrasil/jasper-stream/issues"
   },
-  "homepage": "https://github.com/s2way/jasper-stream",
+  "homepage": "https://github.com/HereITBrasil/jasper-stream",
   "devDependencies": {
     "coffee-script": "latest",
     "coffeelint": "1.9.4",
